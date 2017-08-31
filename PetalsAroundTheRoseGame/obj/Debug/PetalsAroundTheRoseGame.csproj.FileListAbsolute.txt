@@ -1,0 +1,9 @@
+\\otc.edu\stures\stuhome\kb0783332\CisTest2\Cis-151 Assignments\PetalsAroundTheRoseGame\PetalsAroundTheRoseGame\bin\Debug\PetalsAroundTheRoseGame.exe.config
+\\otc.edu\stures\stuhome\kb0783332\CisTest2\Cis-151 Assignments\PetalsAroundTheRoseGame\PetalsAroundTheRoseGame\bin\Debug\PetalsAroundTheRoseGame.exe
+\\otc.edu\stures\stuhome\kb0783332\CisTest2\Cis-151 Assignments\PetalsAroundTheRoseGame\PetalsAroundTheRoseGame\bin\Debug\PetalsAroundTheRoseGame.pdb
+\\otc.edu\stures\stuhome\kb0783332\CisTest2\Cis-151 Assignments\PetalsAroundTheRoseGame\PetalsAroundTheRoseGame\obj\Debug\PetalsAroundTheRoseGame.csprojResolveAssemblyReference.cache
+\\otc.edu\stures\stuhome\kb0783332\CisTest2\Cis-151 Assignments\PetalsAroundTheRoseGame\PetalsAroundTheRoseGame\obj\Debug\PetalsAroundTheRoseGame.PetalsApp.resources
+\\otc.edu\stures\stuhome\kb0783332\CisTest2\Cis-151 Assignments\PetalsAroundTheRoseGame\PetalsAroundTheRoseGame\obj\Debug\PetalsAroundTheRoseGame.Properties.Resources.resources
+\\otc.edu\stures\stuhome\kb0783332\CisTest2\Cis-151 Assignments\PetalsAroundTheRoseGame\PetalsAroundTheRoseGame\obj\Debug\PetalsAroundTheRoseGame.csproj.GenerateResource.Cache
+\\otc.edu\stures\stuhome\kb0783332\CisTest2\Cis-151 Assignments\PetalsAroundTheRoseGame\PetalsAroundTheRoseGame\obj\Debug\PetalsAroundTheRoseGame.exe
+\\otc.edu\stures\stuhome\kb0783332\CisTest2\Cis-151 Assignments\PetalsAroundTheRoseGame\PetalsAroundTheRoseGame\obj\Debug\PetalsAroundTheRoseGame.pdb
